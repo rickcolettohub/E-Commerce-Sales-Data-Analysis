@@ -13,12 +13,12 @@ A empresa E-Shop Brasil busca entender melhor o comportamento de suas vendas nos
 5. (Extra) Existem padrões de sazonalidade nas vendas?
 
 ## 🗂 Estrutura do Repositório
-E-COMMERCE_SALES-DATA-ANALYSIS/
-├── data/ -> dados brutos e tratados
-├── notebooks/ -> notebooks de exploração, limpeza e análise
-├── src/ -> scripts Python reutilizáveis
-├── reports/ -> visualizações e dashboard Power BI
-└── README.md -> documentação do projeto
+E-COMMERCE_SALES-DATA-ANALYSIS/ <br />
+├── data/ -> dados brutos e tratados <br />
+├── notebooks/ -> notebooks de exploração, limpeza e análise <br />
+├── src/ -> scripts Python reutilizáveis <br />
+├── reports/ -> visualizações e dashboard Power BI <br />
+└── README.md -> documentação do projeto <br />
 
 ## 🔧 Tecnologias Usadas
 - Python (Pandas, Matplotlib, Seaborn)
