@@ -54,7 +54,7 @@ A empresa E-Shop Brasil busca entender melhor o comportamento de suas vendas nos
 ## 🚀 Como Reproduzir
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/projeto-ecommerce.git
+   git clone https://github.com/rickcolettohub/projeto-ecommerce.git
 
 2. Instale as dependências:
     ```bash
