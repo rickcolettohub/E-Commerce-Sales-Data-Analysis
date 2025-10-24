@@ -31,21 +31,24 @@ A empresa E-Shop Brasil busca entender melhor o comportamento de suas vendas nos
 ### 1. Quais são as categorias mais vendidas? 
 - Podemos concluir que as categorias com maior faturamento são "Beleza e Saúde", "Relógios e Presentes" e "Móveis" representando 26,59% do montante total. 
 - Percebemos que as 10 categorias com maior faturamento compoem 65,49% do montante total.
+
 ![categorias](reports/figures/categorias_00.png)
 
 ### 2. Qual é o ticket médio por cliente?
 - É notavel que os cliente, em média, gastam até 200 reais, representando 84,9% da frequência de ticket médio, sendo a faixa mais representativa entre 100 a 200 reais.
 - Podemos notar ao olhar para o gasto total e os ticket a maioria absoluta dos cliente realizaram apenas uma unica compra.
-<img src="reports/figures/ticket_medio_00.png" alt="Description of image">
+
 ![ticket_medio](reports/figures/ticket_medio_00.png)
 
 ### 3. Como está a evolução de vendas ao longo do tempo?
 - Analisando o faturamento por tempo, podemos concluir que as vendas seguem em crescimento constante.
+
 ![evolucao_vendas](reports/figures/evolucao_vendas_00.png)
 
 ### 4. Qual a distribuição geográfica dos clientes?
 - A maior concentração de pedidos e do faturamento está concentrado em São Paulo, Rio de Janeiro e Minas Gerais.
-- São Paulo representa 41,98% dos pedidos e 38,33% do Faturamento
+- São Paulo representa 41,98% dos pedidos e 38,33% do Faturamento.
+
 ![distribuicao_geografica](reports/figures/distribuicao_geografica_00.png)
 
 ### 5. Existem padrões de sazonalidade nas vendas?
