@@ -38,18 +38,18 @@ A empresa E-Shop Brasil busca entender melhor o comportamento de suas vendas nos
 - É notavel que os cliente, em média, gastam até 200 reais, representando 84,9% da frequência de ticket médio, sendo a faixa mais representativa entre 100 a 200 reais.
 - Podemos notar ao olhar para o gasto total e os ticket a maioria absoluta dos cliente realizaram apenas uma unica compra.
 
-![ticket_medio](reports/figures/ticket_medio_00.png)
+![ticket_medio](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348598/ticket_medio_00_ebwzf9.png)
 
 ### 3. Como está a evolução de vendas ao longo do tempo?
 - Analisando o faturamento por tempo, podemos concluir que as vendas seguem em crescimento constante.
 
-![evolucao_vendas](reports/figures/evolucao_vendas_00.png)
+![evolucao_vendas](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348598/evolucao_vendas_00_covkqn.png)
 
 ### 4. Qual a distribuição geográfica dos clientes?
 - A maior concentração de pedidos e do faturamento está concentrado em São Paulo, Rio de Janeiro e Minas Gerais.
 - São Paulo representa 41,98% dos pedidos e 38,33% do Faturamento.
 
-![distribuicao_geografica](reports/figures/distribuicao_geografica_00.png)
+![distribuicao_geografica](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348598/distribuicao_geografica_00_tfy9sf.png)
 
 ### 5. Existem padrões de sazonalidade nas vendas?
 - Quando olhando de forma amostral para o ano completo dentro dos dados, percebemos que em novembro as vendas aumentam.
