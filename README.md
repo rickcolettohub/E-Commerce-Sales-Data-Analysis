@@ -32,7 +32,7 @@ A empresa E-Shop Brasil busca entender melhor o comportamento de suas vendas nos
 - Podemos concluir que as categorias com maior faturamento são "Beleza e Saúde", "Relógios e Presentes" e "Móveis" representando 26,59% do montante total. 
 - Percebemos que as 10 categorias com maior faturamento compoem 65,49% do montante total.
 
-![categorias](reports/figures/categorias_00.png)
+![categorias](https://photos.app.goo.gl/G4VXGnpeyFGRfEkBA)
 
 ### 2. Qual é o ticket médio por cliente?
 - É notavel que os cliente, em média, gastam até 200 reais, representando 84,9% da frequência de ticket médio, sendo a faixa mais representativa entre 100 a 200 reais.
